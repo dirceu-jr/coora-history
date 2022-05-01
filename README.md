@@ -1,4 +1,6 @@
-# Coora
+# Coora History
+
+_Leia em [Português](https://github.com/dirceu-jr/coora/blob/main/README.pt_BR.md)._
 
 Initially under the name of "Cora Apps" and later "Coora", this was a joint venture of mine with user interface designer [Mikael Carrara](https://github.com/mikaelcarrara).
 
