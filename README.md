@@ -1,6 +1,6 @@
 _Leia em [Português](https://github.com/dirceu-jr/coora/blob/main/README.pt_BR.md)._
 
-Initially under the name of "Cora Apps" and later "Coora", this was a joint venture of mine with user interface designer [Mikael Carrara](https://github.com/mikaelcarrara).
+Initially under the name of "Cora Apps" and later "Coora", this was a joint venture of mine ([Dirceu Jr.](https://github.com/dirceu-jr)) with user interface designer [Mikael Carrara](https://github.com/mikaelcarrara).
 
 We developed several products for Web, Palm/HP WebOS, Android, Google Chrome and Mozilla Firefox browser extensions.
 
