@@ -2,7 +2,7 @@
 
 _Read this in [English](https://github.com/dirceu-jr/coora)._
 
-Inicialmente sobre o nome de "Cora Apps" e depois "Coora", foi uma parceria minha com o _designer_ de interface [Mikael Carrara](https://github.com/mikaelcarrara).
+Inicialmente sobre o nome de "Cora Apps" e depois "Coora", foi uma parceria minha ([Dirceu Jr.](https://github.com/dirceu-jr)) com o _designer_ de interface [Mikael Carrara](https://github.com/mikaelcarrara).
 
 Nós desenvolvemos vários produtos para a Web, Palm/HP WebOS, Android, extensões para Google Chrome e Mozilla Firefox.
 
