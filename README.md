@@ -6,7 +6,7 @@ Nós desenvolvemos vários produtos para a Web, Palm/HP WebOS, Android, extensõ
 
 Nós tivemos o suporte e parceria de algumas empresas como da desenvolvedora de recursos de processamento de linguagem natural "AlchemyAPI", da plataforma de reconhecimento de imagem "IQ Engines", do portal de comparação de preços "BuscaPé" e da rede de marketing de afiliados "Lomadee".
 
-Alguns dos nosso produtos foram: _SmartVision_, _BuscaOfertas_, [_InstantOfertas_](https://github.com/dirceu-jr/instant-ofertas), [_Coora Shopping_](https://github.com/dirceu-jr/coora-shopping), [_Vitrine Responsiva_](https://github.com/dirceu-jr/vitrine-design-responsivo) and [_Notificação Lomadee_](https://github.com/dirceu-jr/notificacao-lomadee).
+Alguns dos nosso produtos foram: _SmartVision_, _BuscaOfertas_, [_InstantOfertas_](https://github.com/dirceu-jr/instant-ofertas), [_Coora Shopping_](https://github.com/dirceu-jr/coora-shopping), [_Vitrine Responsiva_](https://github.com/dirceu-jr/vitrine-design-responsivo) e [_Notificação Lomadee_](https://github.com/dirceu-jr/notificacao-lomadee).
 
 # History
 
