@@ -1,6 +1,6 @@
 # História
 
-Inicialmente sobre o nome de "Cora Apps" e depois "Coora", foi uma parceria minha ([Dirceu Jr.](https://github.com/dirceu-jr)) com o designer de interface Mikael Carrara.
+Inicialmente nomeada "Cora Apps" e depois "Coora", foi uma parceria minha ([Dirceu Jr.](https://github.com/dirceu-jr)) com o designer de interface [Mikael Carrara](https://github.com/mikaelcarrara).
 
 Nós desenvolvemos vários produtos para a Web, Palm/HP WebOS, Android, extensões para Google Chrome e Mozilla Firefox.
 
@@ -10,7 +10,7 @@ Alguns dos nosso produtos foram: _SmartVision_, _BuscaOfertas_, [_InstantOfertas
 
 # History
 
-Initially under the name of "Cora Apps" and later "Coora", this was a joint venture of mine ([Dirceu Jr.](https://github.com/dirceu-jr)) with user interface designer [Mikael Carrara](https://github.com/mikaelcarrara).
+Initially named "Cora Apps" and later "Coora", this was a joint venture of mine ([Dirceu Jr.](https://github.com/dirceu-jr)) with user interface designer [Mikael Carrara](https://github.com/mikaelcarrara).
 
 We developed several products for Web, Palm/HP WebOS, Android, Google Chrome and Mozilla Firefox browser extensions.
 
